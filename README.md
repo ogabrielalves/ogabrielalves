@@ -7,8 +7,8 @@
 
  <div>
   <a href="https://github.com/ogabrielalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogabrielalves&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielalves&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogabrielalves&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielalves&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -17,6 +17,7 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+  <img align="right" width="20%" alt="The Midnight Gospel" src="https://64.media.tumblr.com/9718d862bd0824c3318b9ecb9995629d/4f8b8bb03c05c8f7-f9/s1280x1920/a53fc2fa3d1376181cc3ee57a8cc2d20422e404f.gifv">
 </div>
   
   ##

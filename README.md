@@ -1,9 +1,9 @@
 ## Hi there, I'm Gabriel Alves
 
 - 👨‍🎓 **Studying:** I'm currently studying Systems Analysis and Development.
-- 🌱 **Learning:** Java and C#
+- 🌱 **Learning:** Java, C# and ReactJS.
 - 🎒 **Main Tools:** Visual Studio Code, Visual Studio and GitHub.
-- 📫 **Contact me:** GabrielAlvesSilva02@Outlook.com
+- 📫 **Contact me:** gabrielalvessilva02@outlook.com
 
  <div>
   <a href="https://github.com/ogabrielalves">

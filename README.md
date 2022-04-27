@@ -2,7 +2,7 @@
 
 - 👨‍🎓 **Studying:** I'm currently studying Systems Analysis and Development.
 - 🌱 **Learning:** Java, C#, Spring Boot, Flutter and ReactJS.
-- 🎒 **Main Tools:** Visual Studio Code, Visual Studio and GitHub.
+- 🎒 **Main Tools:** Visual Studio Code, Visual Studio, IntelliJ and GitHub.
 - 📫 **Contact me:** gabrielalvessilva02@outlook.com
 
  <div>

@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel Alves
 
-- 👨‍🎓 **Studying:** I'm currently studying Systems Analysis and Development.
+- 👨‍🎓 **Graduated:** Graduated in Systems Analysis and Development.
 - 🌱 **Learning:** Java, C#, Spring Boot, Flutter, ReactNative and ReactJS.
 - 🎒 **Main Tools:** Visual Studio Code, Visual Studio, IntelliJ and GitHub.
 - 📫 **Contact me:** gabrielalvessilva02@outlook.com

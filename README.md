@@ -5,11 +5,12 @@
 - 🎒 **Main Tools:** Visual Studio Code, Visual Studio, IntelliJ and GitHub.
 - 📫 **Contact me:** gabrielalvessilva02@outlook.com
 
- <div>
-  <a href="https://github.com/ogabrielalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogabrielalves&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielalves&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ogabrielalves&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ogabrielalves&theme=tokyonight"/>
+    </a>   
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 

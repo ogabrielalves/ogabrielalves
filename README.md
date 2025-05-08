@@ -26,6 +26,9 @@
 
 <br />
 
+
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
+
 ## 🛠 &nbsp;Tech Stack:
 
 ### 💻 &nbsp;Languages:
@@ -38,6 +41,7 @@
 ### 🚀 &nbsp;Technologies:
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![SprinBboot](https://img.shields.io/badge/SpringBoot-05122A?style=flat-square&logo=Spring&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
@@ -47,11 +51,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 <hr />
-
-## 📈 Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=ogabrielalves&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
 
 ## 🏆 Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">

@@ -29,6 +29,8 @@
 
   ![Status](./profile-3d-contrib/profile-night-view.svg)
 
+  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
 ## 🛠 &nbsp;Tech Stack:
 
 ### 💻 &nbsp;Languages:

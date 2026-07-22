@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60">
+  <defs>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3a3f47"/>
+      <stop offset="1" stop-color="#3a3f47" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="32" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#c9a24a">&#9884;</text>
+  <text x="38" y="33" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" letter-spacing="2" fill="#eee6d3">THE WANDERER'S CHRONICLE</text>
+  <line x1="0" y1="48" x2="900" y2="48" stroke="url(#r)" stroke-width="1.5"/>
+</svg>

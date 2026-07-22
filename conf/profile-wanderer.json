@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-wanderer.svg",
+  "backgroundColor": "#0a0b0d",
+  "foregroundColor": "#c9c2b0",
+  "strongColor": "#c9a24a",
+  "weakColor": "#5c6169",
+  "radarColor": "#c9a24a",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1a1d21",
+    "#2a2f36",
+    "#5c4a20",
+    "#8a6b2a",
+    "#c9a24a"
+  ]
+}

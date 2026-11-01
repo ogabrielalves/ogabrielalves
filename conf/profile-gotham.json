@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-gotham.svg",
+  "backgroundColor": "#0a0b0d",
+  "foregroundColor": "#d8dce0",
+  "strongColor": "#c1272d",
+  "weakColor": "#5c6169",
+  "radarColor": "#c1272d",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1a1d21",
+    "#2a2f36",
+    "#5a1418",
+    "#8f1d23",
+    "#c1272d"
+  ]
+}

@@ -86,29 +86,10 @@
 
 <p align="center"><img src="pics/divider.svg" width="55%"></p>
 
-<img src="pics/section-trophies.svg" width="480">
+<img src="pics/section-projects.svg" width="480">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="100%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ogabrielalves&theme=onedark&margin-w=15&no-bg=true"/>
-</a>
-
-<p align="center"><img src="pics/divider.svg" width="55%"></p>
-
-<img src="pics/section-pinned.svg" width="480">
-
-<p align="center">
-	<a href="https://github.com/ogabrielalves/vollmed-api">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogabrielalves&repo=vollmed-api&title_color=c1272d&text_color=d8dce0&icon_color=c1272d&bg_color=101215&border_color=2a2f36" />
-	</a>
-	<a href="https://github.com/ogabrielalves/cardapio-digital-backend">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogabrielalves&repo=cardapio-digital-backend&title_color=c1272d&text_color=d8dce0&icon_color=c1272d&bg_color=101215&border_color=2a2f36" />
-	</a>
-  <a href="https://github.com/ogabrielalves/portifolio">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogabrielalves&repo=portifolio&title_color=c1272d&text_color=d8dce0&icon_color=c1272d&bg_color=101215&border_color=2a2f36" />
-	</a>
-  <a href="https://github.com/ogabrielalves/ms-email">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogabrielalves&repo=ms-email&title_color=c1272d&text_color=d8dce0&icon_color=c1272d&bg_color=101215&border_color=2a2f36" />
-	</a>
-</p>
+| Project | Description | Stacks |
+|---------|-------------|--------|
+| [Guildcraft](https://github.com/ogabrielalves/guildcraft) | A pixel-art guild workshop where every adventurer is a live Claude Code agent. Each project folder gets its own character, so you can see who is working, idle or waiting for permission. Work in progress. | `nodejs` `typescript` `websocket` `canvas` |
 
 <p align="center"><img src="pics/divider.svg" width="55%"></p>

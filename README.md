@@ -91,5 +91,6 @@
 | Project | Description | Stacks |
 |---------|-------------|--------|
 | [Guildcraft](https://github.com/ogabrielalves/guildcraft) | A pixel-art guild workshop where every adventurer is a live Claude Code agent. Each project folder gets its own character, so you can see who is working, idle or waiting for permission. Work in progress. | `nodejs` `typescript` `websocket` `canvas` |
+| [Pulso](https://github.com/ogabrielalves/pulso) | Hardware diagnostics, monitoring and testing for Windows in a single portable executable. Live dashboard, sensor alerts, benchmarks, stress tests and maintenance tools. | `csharp` `dotnet` `wpf` `xunit` |
 
 <p align="center"><img src="pics/divider.svg" width="55%"></p>
